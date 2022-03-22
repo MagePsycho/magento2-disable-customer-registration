@@ -105,7 +105,7 @@ php bin/magento setup:static-content:deploy
 
 ## Contributors
 
-![Contributors](https://contrib.rocks/image?repo=MagePsycho/magento2-disable-customer-registration)
+![Contributors](https://contrib.rocks/image?repo=magepsycho/magento2-disable-customer-registration)
 
 ## To Contribute
 Any contribution to the development of `Magento 2 Disable Customer Registration` is highly welcome.  
